@@ -1,0 +1,44 @@
+body{
+	padding: 10px;
+}
+form{
+	margin: 0 auto;
+	border: 1px solid #999;
+	padding: 20px;
+	background: #eee;
+	overflow: auto;
+}
+.logo{
+	float: left;
+	padding: 20px;
+	border: 1px solid #999;
+	width: 160px;
+	background: white;
+}
+.teamlogo{
+	float: left;
+	width: 80px;
+	height: 80px;
+}
+.teamname{
+	padding-left: 100px;
+}
+.right{
+	float: right;
+	background: white;
+	width: 120px;
+	border: 1px solid #999;
+	margin-top: -235px;
+}
+.aa{
+	margin: 20px;
+	display: block;
+}
+.middle{
+	border: 1px solid #999;
+	margin-left: 220px;
+	margin-right: 160px;
+	background: white;
+	padding: 20px;
+}
+
